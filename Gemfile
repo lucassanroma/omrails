@@ -15,6 +15,7 @@ end
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
+
 gem  'bootstrap-sass', '~> 2.2.2.0'
 
 # Use Uglifier as compressor for JavaScript assets
@@ -28,6 +29,8 @@ gem 'coffee-rails', '~> 4.0.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+gem 'devise'
+gem 'simple_form'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
